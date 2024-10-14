@@ -15,8 +15,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/creack/pty"
-	"github.com/kr/text/colwriter"
+	"github.com/01ne/pty"
+	"github.com/01ne/text/colwriter"
 )
 
 func main() {
